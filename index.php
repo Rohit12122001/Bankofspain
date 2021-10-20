@@ -34,7 +34,7 @@
 
         <div class="Bankimage">
             <br>
-            <img src="bank image.jpg" height="430px" width="100%">
+            <img src="bank.jpg" height="430px" width="100%">
         </div>
         
         <h1 style="text-align: center;">Services</h1>
